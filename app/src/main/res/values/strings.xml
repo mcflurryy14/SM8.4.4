@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Мой Умный Офис</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="login_button">Авторизоваться</string>
+    <string name="phone_directory">Телефонный справочник</string>
+    <string name="tasks_notifications">Задачи и оповещения</string>
+    <string name="meeting_rooms">Переговорные комнаты</string>
+    <string name="administration">Администрирование</string>
+</resources>
